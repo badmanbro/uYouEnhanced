@@ -17,7 +17,7 @@ on:
         required: true
         type: string
       decrypted_youtube_url:
-        description: "https://github.com/arichornlover/YouTubeRebornPlus/"
+        description: "https://github.com/badmanbro/uYouEnhanced/blob/main/.github/workflows/buildapp.yml/"
         default: ""
         required: true
         type: string
